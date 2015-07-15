@@ -1,5 +1,7 @@
 # NameFromMyBundle
 
+[![Build Status](https://travis-ci.org/domnikl/DesignPatternsPHP.svg?branch=master)](https://travis-ci.org/domnikl/DesignPatternsPHP)
+
 ## About
 
 The NameFromMyBundle provides Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
