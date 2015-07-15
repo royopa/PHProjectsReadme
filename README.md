@@ -5,6 +5,7 @@ Sample README for several projects in PHP
 ## Examples
 
 * [SymfonyBundle](SymfonyBundle.md)
+* [SylexServiceProvider](SilexServiceProvider)
 
 ## Contribute
 
